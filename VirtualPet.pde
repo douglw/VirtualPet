@@ -13,7 +13,7 @@ void draw() {
   stroke(#683a3b);
   strokeWeight(2);
   fill(#fefcfb);
-  ellipse(200,450,450,350); //body
+  ellipse(200,450,400,350); //body
   fill(#ffaec7);
   ellipse(130,280,80,80);
   ellipse(270,280,80,80); //collar
